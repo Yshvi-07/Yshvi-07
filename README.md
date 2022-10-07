@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yashasvi Singh</h1>
-<h3 align="center">A passionate frontend developer and a problem solverper from India</h3>
+<h3 align="center">A passionate frontend developer and a problem solver from India</h3>
 <image align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
 
 - 📫 How to reach me **princiyyv1302@gmail.com**
 
-- ⚡ Fun fact **I like dancing and reading books tooo**
+- ⚡ Fun fact **I enjoy dancing and reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
