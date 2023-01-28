@@ -1,6 +1,12 @@
+<!--
 <h1 align="center">Hi 👋, I'm Yashasvi Singh</h1>
 <h3 align="center">A passionate frontend developer and a problem solver from India</h3>
-<image align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
+-->
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Yashasvi+Singh;Pursuing+B.Tech+in+Electronic+%26+Communication)](https://git.io/typing-svg)
+
+<a href="https://github.com/Yshvi-07"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Learning+FrontEnd+Development;Brushing+up+Data+Structure+%26+algorithm.." /></a>
+  <image align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/03/29/36/40/360_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg">
 
 - 📫 How to reach me **princiyyv1302@gmail.com**
 
