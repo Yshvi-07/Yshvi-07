@@ -1,6 +1,6 @@
 <!--
 <h1 align="center">Hi 👋, I'm Yashasvi Singh</h1>
-<h3 align="center">A passionate frontend developer and a problem solver from India</h3>
+<h3 align="center">A passionate frontend developer and  problem solver from India</h3>
 -->
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Yashasvi+Singh;Pursuing+B.Tech+in+Electronic+%26+Communication)](https://git.io/typing-svg)
